@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Roman
 
-<!--
-**OskolElkin/OskolElkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer learning to build practical software with the help of AI.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working projects, experimenting with new tools, and improving my skills through hands-on development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm exploring
+
+- **Android apps** — useful mobile tools and offline-first experiences
+- **AI-assisted development** — learning, prototyping, and building with AI
+- **Automation** — simplifying repetitive tasks
+- **Web development** — creating practical websites and services
+- **Game development** — exploring mobile game design
+
+### How I work
+
+Learn by building. Keep things simple. Test what I make. Improve with every iteration.
+
+### Currently
+
+Building my first projects, learning new technologies, and documenting what works.
+
+---
+
+*One project at a time.*
