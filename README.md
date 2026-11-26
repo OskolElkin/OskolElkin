@@ -23,3 +23,9 @@ Building my first projects, learning new technologies, and documenting what work
 ---
 
 *One project at a time.*
+
+## ЕКЛМН — Цифровая лаборатория
+
+[Портал лаборатории](https://eklmn.lol/) · [Каталог проектов](https://eklmn.lol/#projects) · [Портфолио автора](https://portfolio.eklmn.lol/)
+
+Сделано в России.
